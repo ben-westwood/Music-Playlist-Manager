@@ -49,14 +49,17 @@ python music_playlist_manager.py
 
 ### Main Interface
 ![Main Interface](screenshots/main-interface.png)
+
 *The main application window showing the playlist manager interface*
 
 ### Adding a Song
 ![Adding a Song](screenshots/add-song.png)
+
 *Example of adding a new song to the playlist*
 
 ### Context Menu
 ![Context Menu](screenshots/context-menu.png)
+
 *Right-click context menu for song management*
 
 ## License
